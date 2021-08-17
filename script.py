@@ -1,7 +1,7 @@
 # input sell price
-# add sell price to variable 'a'
+a = input("Input Final Sale Price")
 # input P&P cost
-# add P&P to variable 'b'
+b = input("Input P&P Costs")
 # add a & b together to get total
 # fees = total * 0.128 + 0.3 //12.8% + 30p
 # total - fees = profit
